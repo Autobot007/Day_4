@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\BGLAB\Day_4\bin\Debug\net6.0\Day_4.exe
+C:\Users\Dell\Desktop\BGLAB\Day_4\bin\Debug\net6.0\Day_4.deps.json
+C:\Users\Dell\Desktop\BGLAB\Day_4\bin\Debug\net6.0\Day_4.runtimeconfig.json
+C:\Users\Dell\Desktop\BGLAB\Day_4\bin\Debug\net6.0\Day_4.dll
+C:\Users\Dell\Desktop\BGLAB\Day_4\bin\Debug\net6.0\Day_4.pdb
+C:\Users\Dell\Desktop\BGLAB\Day_4\obj\Debug\net6.0\Day_4.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\BGLAB\Day_4\obj\Debug\net6.0\Day_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\BGLAB\Day_4\obj\Debug\net6.0\Day_4.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\BGLAB\Day_4\obj\Debug\net6.0\Day_4.AssemblyInfo.cs
+C:\Users\Dell\Desktop\BGLAB\Day_4\obj\Debug\net6.0\Day_4.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\BGLAB\Day_4\obj\Debug\net6.0\Day_4.dll
+C:\Users\Dell\Desktop\BGLAB\Day_4\obj\Debug\net6.0\refint\Day_4.dll
+C:\Users\Dell\Desktop\BGLAB\Day_4\obj\Debug\net6.0\Day_4.pdb
+C:\Users\Dell\Desktop\BGLAB\Day_4\obj\Debug\net6.0\Day_4.genruntimeconfig.cache
+C:\Users\Dell\Desktop\BGLAB\Day_4\obj\Debug\net6.0\ref\Day_4.dll
